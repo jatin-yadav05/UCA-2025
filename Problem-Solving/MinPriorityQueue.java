@@ -1,13 +1,13 @@
 /**
- * Implementation of a Max Priority Queue using a binary heap.
+ * Implementation of a Min Priority Queue using a binary heap.
  */
-public class MaxPriorityQueue {
+public class MinPriorityQueue {
   private int[] heap;
   private int size;
   private int capacity;
 
-  /** Initializes the max priority queue with given capacity. */
-  public MaxPriorityQueue(int capacity) {
+  /** Initializes the min priority queue with given capacity. */
+  public MinPriorityQueue(int capacity) {
     this.capacity = capacity;
     this.heap = new int[capacity + 1]; // 1-based indexing
     this.size = 0;
@@ -23,15 +23,15 @@ public class MaxPriorityQueue {
     return size;
   }
 
-  /** Returns the maximum element without removing it. */
-  public int peekMax() {
+  /** Returns the minimum element without removing it. */
+  public int peekMin() {
     if (isEmpty()) {
       throw new IllegalStateException("Queue is empty");
     }
     return heap[1];
   }
 
-  /** Inserts a new key into the max priority queue. */
+  /** Inserts a new key into the min priority queue. */
   public void insert(int key) {
     if (size == capacity) {
       throw new IllegalStateException("Queue is full");
@@ -40,21 +40,21 @@ public class MaxPriorityQueue {
     swim(size); // restore heap property
   }
 
-  /** Extracts and returns the maximum element. */
-  public int extractMax() {
+  /** Extracts and returns the minimum element. */
+  public int extractMin() {
     if (isEmpty()) {
       throw new IllegalStateException("Queue is empty");
     }
-    int max = heap[1];
+    int min = heap[1];
     swap(1, size);
     size--;
     sink(1);
-    return max;
+    return min;
   }
 
   /** Restores heap order by swimming up. */
   private void swim(int k) {
-    while (k > 1 && heap[k / 2] < heap[k]) {
+    while (k > 1 && heap[k / 2] > heap[k]) {
       swap(k, k / 2);
       k = k / 2;
     }
@@ -64,10 +64,10 @@ public class MaxPriorityQueue {
   private void sink(int k) {
     while (2 * k <= size) {
       int j = 2 * k;
-      if (j < size && heap[j] < heap[j + 1]) {
+      if (j < size && heap[j] > heap[j + 1]) {
         j++;
       }
-      if (heap[k] >= heap[j]) {
+      if (heap[k] <= heap[j]) {
         break;
       }
       swap(k, j);
@@ -82,26 +82,26 @@ public class MaxPriorityQueue {
     heap[j] = temp;
   }
 
-  /** Example usage of MaxPriorityQueue. */
+  /** Example usage of MinPriorityQueue. */
   public static void main(String[] args) {
-    MaxPriorityQueue pq = new MaxPriorityQueue(10);
+    MinPriorityQueue pq = new MinPriorityQueue(10);
 
     pq.insert(10);
     pq.insert(40);
     pq.insert(20);
-    pq.insert(50);
+    pq.insert(5);
 
-    System.out.println("Peek max: " + pq.peekMax()); // 50
+    System.out.println("Peek min: " + pq.peekMin()); // 5
 
-    System.out.println("Extract max elements:");
+    System.out.println("Extract min elements:");
     while (!pq.isEmpty()) {
-      System.out.println(pq.extractMax());
+      System.out.println(pq.extractMin());
     }
 
     // Re-insertion demo
-    pq.insert(5);
-    pq.insert(100);
-    System.out.println("Peek max after re-insertion: " + pq.peekMax());
+    pq.insert(50);
+    pq.insert(2);
+    System.out.println("Peek min after re-insertion: " + pq.peekMin());
   }
 }
 

@@ -357,3 +357,164 @@ ls
 ls
 cd Problem-Solving/
 ls
+clear
+sudo apt update && sudo apt upgrade -y
+sudo apt install git -y
+git --version
+git config --global user.name "Jatin Yadav"
+git config --global user.email "jatin05yd@gmail.com"
+git config --list
+ssh-keygen -t ed25519 -C "jatin05yd@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+ls
+rm -f 'eval "$(ssh-agent -s)"' 'ev
+
+
+rm -f 'eval "$(ssh-agent -s)"' 'eval "$(ssh-agent -s)".pub'
+ls
+ssh-keygen -t ed25519 -C "jatin05yd@gmail.com"
+ls
+ls -l ~/.ssh
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+pws
+pwd
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jatin-yadav05/UCA-2025.git
+git push -u origin main
+ls
+cd cd Problem-Solving/
+git push -u origin main
+cd Problem-Solving/
+vim MedianFinder.java
+vim MergeKSortedLists.java
+ls
+cat MaxPriorityQueue
+cat MaxPriorityQueue.java
+vim MedicineScheduler.java
+rm -rm MaxPriorityQueue.java
+rm -rf MaxPriorityQueue.java
+vim MaxPriorityQueue.java
+vim MinPriorityQueue.java
+vim SiteswapValidator.java
+ls
+javac MedianFinder.java SiteswapValidator.java MaxPriorityQueue.java MinPriorityQueue.java MergeKSortedLists.java MedicineScheduler.java 
+java Medi
+java MedianFinder 
+java SiteswapValidator 
+java MaxPriorityQueue
+java MinPriorityQueue 
+java MergeKSortedLists 
+java MedicineScheduler 
+java KthLargestUsingPriorityQueue 
+vim KthLargestUsingPriorityQueue.java 
+vim MedianFinder.java 
+vim MergeKSortedLists.java 
+cd Problem-Solving/
+vim MedicineScheduler.java 
+ls
+cd ..
+clear
+cd Problem-Solving/
+ls
+clear
+cd Pro
+cd Problem-Solving/
+cd Matrioshkas/
+ls
+vim Matrioshkas.java 
+clear
+cd Rohit-Sir/
+ls
+cd Networking/
+ls
+cd ..
+cd InterviewQuestions/
+ls
+cd R
+cd Rohit-Sir/
+cd Networking/
+vim UDPClient.java 
+clear
+cd Rohit-Sir/
+ls
+cd Networking/
+ls
+vim UDPServer.java 
+yes
+clear
+cd Roh
+cd Rohit-Sir/
+ls
+cd InterviewQuestions/
+ls
+vim LongestSubstringWithReplacement.java
+ls
+cd Problem-Solving/
+ls
+cd MaxPriorityQueue/
+vim MaxPriorityQueue.java
+javac MaxPriorityQueue.java 
+ls
+java MaxPriorityQueue 
+ls Problem-Solving/
+cd Problem-Solving/
+ls
+clear
+cd Problem-Solving/
+ls
+mkdir HashTable
+cd HashTable/
+clear
+vim HashTable.java
+cd Problem-Solving/
+cd HashTable/
+vim HashTable.java 
+cd Rohit-Sir/
+mkdir BinarySearch
+cd BinarySearch/
+vim SearchInSortedArray
+ls
+vim SearchInSortedArray.java
+javac SearchInSortedArray.java 
+java SearchInSortedArray 
+vim SearchIn2DMatrix.java
+javac SearchIn2DMatrix.java 
+java SearchIn2DMatrix 
+vim SearchInsertPosition.java
+javac SearchInsertPosition.java 
+java SearchInsertPosition 
+cd Rohit-Sir/BinarySearch/
+vim SearchInRotatedSortedArray.java
+javac SearchInRotatedSortedArray.java 
+java SearchInRotatedSortedArray 
+vim SearchInRotatedSortedArrayWithDuplicates.java
+javac SearchInRotatedSortedArrayWithDuplicates.java 
+java SearchInRotatedSortedArrayWithDuplicates
+clear
+cd Rohit-Sir/BinarySearch/
+clear
+ls
+cd Ritesh-Sir/
+vim Base64Encoder.c
+vim Base64Decoder.c
+gcc -o Base64Encoder.c 
+[200~    sudo apt install build-essential~
+gcc Base64Encoder.c
+vim Base64Encoder.c
+gcc Base64Encoder.c -o Base64Encoder.c 
+gcc Base64Encoder.c -o Base64Encoder
+./Base64Encoder 
+vim Base64Encoder
+vim Base64Encoder.c
+gcc Base64Encoder.c -o Base64Encoder
+vim Base64Encoder
+./Base64Encoder 
+vim Base64Decoder.c 
+gcc Base64Decoder.c -o Base64Decoder
+./Base64Decoder 
+clear
+vim Base64Encoder.c

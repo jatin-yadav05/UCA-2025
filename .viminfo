@@ -12,13 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1755585549,,"wq"
+|2,0,1758898886,,"wq"
+:qa
+|2,0,1758637798,,"qa"
+:ew
+|2,0,1758029965,,"ew"
 :q!
 |2,0,1755005812,,"q!"
 :q
 |2,0,1755005807,,"q"
-:ew
-|2,0,1754917776,,"ew"
 :WQ
 |2,0,1754398157,,"WQ"
 
@@ -36,275 +38,478 @@
 |3,1,36,0,1,0,1755584541,"n"
 
 # File marks:
-'0  14  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,48,14,0,1755593584,"~/Problem-Solving/MaxPriorityQueue.java"
-'1  1  7  ~/Problem-Solving/MaxPriorityQueue.java
-|4,49,1,7,1755585549,"~/Problem-Solving/MaxPriorityQueue.java"
-'2  1  7  ~/Problem-Solving/MaxPriorityQueue.java
-|4,50,1,7,1755585549,"~/Problem-Solving/MaxPriorityQueue.java"
-'3  1  0  ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-|4,51,1,0,1755585486,"~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java"
-'4  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,52,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
-'5  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,53,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
-'6  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,54,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
-'7  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,55,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
-'8  14  15  ~/Problem-Solving/MaxPriorityQueue.java
-|4,56,14,15,1755585412,"~/Problem-Solving/MaxPriorityQueue.java"
-'9  14  15  ~/Problem-Solving/MaxPriorityQueue.java
-|4,57,14,15,1755585412,"~/Problem-Solving/MaxPriorityQueue.java"
+'0  10  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,48,10,15,1758898886,"~/Ritesh-Sir/Base64Encoder.c"
+'1  51  17  ~/Ritesh-Sir/Base64Decoder.c
+|4,49,51,17,1758897599,"~/Ritesh-Sir/Base64Decoder.c"
+'2  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,50,1,0,1758897555,"~/Ritesh-Sir/Base64Encoder"
+'3  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,51,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+'4  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,52,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+'5  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,53,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+'6  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,54,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+'7  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,55,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+'8  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,56,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+'9  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,57,32,0,1758896959,"~/Ritesh-Sir/Base64Encoder.c"
 
 # Jumplist (newest first):
--'  14  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,14,0,1755593584,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  7  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,7,1755585609,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  7  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,7,1755585549,"~/Problem-Solving/MaxPriorityQueue.java"
--'  14  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,14,0,1755585526,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-|4,39,1,0,1755585486,"~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-|4,39,1,0,1755585486,"~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-|4,39,1,0,1755585486,"~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-|4,39,1,0,1755585486,"~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java"
--'  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
--'  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
--'  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
--'  74  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,74,0,1755585454,"~/Problem-Solving/MaxPriorityQueue.java"
--'  73  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,73,0,1755585433,"~/Problem-Solving/MaxPriorityQueue.java"
--'  73  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,73,0,1755585433,"~/Problem-Solving/MaxPriorityQueue.java"
--'  73  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,73,0,1755585433,"~/Problem-Solving/MaxPriorityQueue.java"
--'  73  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,73,0,1755585433,"~/Problem-Solving/MaxPriorityQueue.java"
--'  14  15  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,14,15,1755585412,"~/Problem-Solving/MaxPriorityQueue.java"
--'  14  15  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,14,15,1755585412,"~/Problem-Solving/MaxPriorityQueue.java"
--'  71  62  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,71,62,1755585381,"~/Problem-Solving/MaxPriorityQueue.java"
--'  71  62  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,71,62,1755585381,"~/Problem-Solving/MaxPriorityQueue.java"
--'  71  62  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,71,62,1755585381,"~/Problem-Solving/MaxPriorityQueue.java"
--'  71  62  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,71,62,1755585381,"~/Problem-Solving/MaxPriorityQueue.java"
--'  64  2  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,64,2,1755585095,"~/Problem-Solving/MaxPriorityQueue.java"
--'  64  2  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,64,2,1755585095,"~/Problem-Solving/MaxPriorityQueue.java"
--'  64  2  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,64,2,1755585095,"~/Problem-Solving/MaxPriorityQueue.java"
--'  64  2  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,64,2,1755585095,"~/Problem-Solving/MaxPriorityQueue.java"
--'  60  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,60,0,1755585080,"~/Problem-Solving/MaxPriorityQueue.java"
--'  60  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,60,0,1755585080,"~/Problem-Solving/MaxPriorityQueue.java"
--'  60  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,60,0,1755585080,"~/Problem-Solving/MaxPriorityQueue.java"
--'  60  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,60,0,1755585080,"~/Problem-Solving/MaxPriorityQueue.java"
--'  56  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,56,0,1755585058,"~/Problem-Solving/MaxPriorityQueue.java"
--'  56  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,56,0,1755585058,"~/Problem-Solving/MaxPriorityQueue.java"
--'  56  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,56,0,1755585058,"~/Problem-Solving/MaxPriorityQueue.java"
--'  56  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,56,0,1755585058,"~/Problem-Solving/MaxPriorityQueue.java"
--'  52  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,52,0,1755585016,"~/Problem-Solving/MaxPriorityQueue.java"
--'  52  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,52,0,1755585016,"~/Problem-Solving/MaxPriorityQueue.java"
--'  52  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,52,0,1755585016,"~/Problem-Solving/MaxPriorityQueue.java"
--'  52  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,52,0,1755585016,"~/Problem-Solving/MaxPriorityQueue.java"
--'  50  36  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,50,36,1755585007,"~/Problem-Solving/MaxPriorityQueue.java"
--'  50  36  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,50,36,1755585007,"~/Problem-Solving/MaxPriorityQueue.java"
--'  50  36  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,50,36,1755585007,"~/Problem-Solving/MaxPriorityQueue.java"
--'  50  36  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,50,36,1755585007,"~/Problem-Solving/MaxPriorityQueue.java"
--'  48  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,48,0,1755584958,"~/Problem-Solving/MaxPriorityQueue.java"
--'  48  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,48,0,1755584958,"~/Problem-Solving/MaxPriorityQueue.java"
--'  48  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,48,0,1755584958,"~/Problem-Solving/MaxPriorityQueue.java"
--'  48  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,48,0,1755584958,"~/Problem-Solving/MaxPriorityQueue.java"
--'  41  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,41,0,1755584915,"~/Problem-Solving/MaxPriorityQueue.java"
--'  41  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,41,0,1755584915,"~/Problem-Solving/MaxPriorityQueue.java"
--'  41  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,41,0,1755584915,"~/Problem-Solving/MaxPriorityQueue.java"
--'  41  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,41,0,1755584915,"~/Problem-Solving/MaxPriorityQueue.java"
--'  35  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,35,0,1755584805,"~/Problem-Solving/MaxPriorityQueue.java"
--'  35  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,35,0,1755584805,"~/Problem-Solving/MaxPriorityQueue.java"
--'  35  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,35,0,1755584805,"~/Problem-Solving/MaxPriorityQueue.java"
--'  35  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,35,0,1755584805,"~/Problem-Solving/MaxPriorityQueue.java"
--'  34  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,34,0,1755584803,"~/Problem-Solving/MaxPriorityQueue.java"
--'  34  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,34,0,1755584803,"~/Problem-Solving/MaxPriorityQueue.java"
--'  34  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,34,0,1755584803,"~/Problem-Solving/MaxPriorityQueue.java"
--'  34  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,34,0,1755584803,"~/Problem-Solving/MaxPriorityQueue.java"
--'  30  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,30,0,1755584738,"~/Problem-Solving/MaxPriorityQueue.java"
--'  30  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,30,0,1755584738,"~/Problem-Solving/MaxPriorityQueue.java"
--'  30  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,30,0,1755584738,"~/Problem-Solving/MaxPriorityQueue.java"
--'  30  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,30,0,1755584738,"~/Problem-Solving/MaxPriorityQueue.java"
--'  24  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,24,0,1755584668,"~/Problem-Solving/MaxPriorityQueue.java"
--'  24  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,24,0,1755584668,"~/Problem-Solving/MaxPriorityQueue.java"
--'  24  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,24,0,1755584668,"~/Problem-Solving/MaxPriorityQueue.java"
--'  24  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,24,0,1755584668,"~/Problem-Solving/MaxPriorityQueue.java"
--'  20  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,20,0,1755584605,"~/Problem-Solving/MaxPriorityQueue.java"
--'  20  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,20,0,1755584605,"~/Problem-Solving/MaxPriorityQueue.java"
--'  20  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,20,0,1755584605,"~/Problem-Solving/MaxPriorityQueue.java"
--'  20  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,20,0,1755584605,"~/Problem-Solving/MaxPriorityQueue.java"
--'  16  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,16,0,1755584583,"~/Problem-Solving/MaxPriorityQueue.java"
--'  16  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,16,0,1755584583,"~/Problem-Solving/MaxPriorityQueue.java"
--'  16  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,16,0,1755584583,"~/Problem-Solving/MaxPriorityQueue.java"
--'  16  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,16,0,1755584583,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,0,1755584529,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,0,1755584529,"~/Problem-Solving/MaxPriorityQueue.java"
--'  12  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,12,0,1755584432,"~/Problem-Solving/MaxPriorityQueue.java"
--'  12  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,12,0,1755584432,"~/Problem-Solving/MaxPriorityQueue.java"
--'  12  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,12,0,1755584432,"~/Problem-Solving/MaxPriorityQueue.java"
--'  12  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,12,0,1755584432,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,0,1755584182,"~/Problem-Solving/MaxPriorityQueue.java"
--'  1  0  ~/Problem-Solving/MaxPriorityQueue.java
-|4,39,1,0,1755584182,"~/Problem-Solving/MaxPriorityQueue.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
--'  11  25  ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
-|4,39,11,25,1755531882,"~/Rohit-Sir/InterviewQuestions/ProductTracker.java"
+-'  10  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,10,15,1758898886,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897697,"~/Ritesh-Sir/Base64Encoder.c"
+-'  51  17  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,17,1758897599,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  17  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,17,1758897599,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897555,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897555,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897555,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897555,"~/Ritesh-Sir/Base64Encoder"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897543,"~/Ritesh-Sir/Base64Encoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  1  0  ~/Ritesh-Sir/Base64Encoder
+|4,39,1,0,1758897515,"~/Ritesh-Sir/Base64Encoder"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  29  15  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,29,15,1758897360,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  32  0  ~/Ritesh-Sir/Base64Encoder.c
+|4,39,32,0,1758897320,"~/Ritesh-Sir/Base64Encoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  51  10  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,51,10,1758897112,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
+-'  1  0  ~/Ritesh-Sir/Base64Decoder.c
+|4,39,1,0,1758896967,"~/Ritesh-Sir/Base64Decoder.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/Problem-Solving/MaxPriorityQueue.java
-	*	1755593584	0
-	"	14	0
-	^	74	1
-	.	72	0
-	+	14	26
-	+	18	19
-	+	54	38
-	+	14	25
-	+	18	18
-	+	23	34
-	+	54	37
-	+	52	1
-	+	50	35
-	+	64	2
-	+	64	3
-	+	66	98
-	+	70	36
-	+	71	41
-	+	70	19
-	+	71	68
-	+	65	0
-	+	71	69
-	+	74	0
-	+	71	68
-	+	66	7
-	+	66	48
-	+	67	0
-	+	68	0
-	+	70	0
-	+	71	18
-	+	71	0
-	+	71	62
-	+	73	0
-	+	71	18
-	+	73	0
-	+	72	0
+> ~/Ritesh-Sir/Base64Encoder.c
+	*	1758898884	0
+	"	10	15
+	^	29	16
+	.	29	15
+	+	31	1
+	+	28	15
+	+	29	15
+	+	28	15
+	+	29	15
+
+> ~/Ritesh-Sir/Base64Decoder.c
+	*	1758897597	0
+	"	51	17
+	^	51	18
+	.	51	17
+	+	54	1
+	+	50	11
+	+	51	11
+	+	50	17
+	+	51	17
+
+> ~/Ritesh-Sir/Base64Encoder
+	*	1758897554	0
+	"	1	0
+
+> ~/Rohit-Sir/BinarySearch/SearchInRotatedSortedArrayWithDuplicates.java
+	*	1758639505	0
+	"	59	0
+	^	59	0
+	.	58	1
+	+	58	1
+
+> ~/Rohit-Sir/BinarySearch/SearchInRotatedSortedArray.java
+	*	1758639331	0
+	"	58	0
+	^	58	0
+	.	57	1
+	+	57	1
+
+> ~/Rohit-Sir/BinarySearch/SearchInsertPosition.java
+	*	1758637949	0
+	"	43	0
+	^	43	0
+	.	42	1
+	+	42	1
+
+> ~/Rohit-Sir/BinarySearch/SearchIn2DMatrix.java
+	*	1758637879	0
+	"	55	0
+	^	55	0
+	.	54	1
+	+	1	31
+	+	54	1
+
+> ~/Rohit-Sir/BinarySearch/SearchInSortedArray.java
+	*	1758637827	0
+	"	37	0
+	^	37	0
+	.	36	1
+	+	36	1
+
+> ~/Rohit-Sir/BinarySearch/SearchInSortedArray
+	*	1758637795	0
+	"	1	0
+
+> ~/Problem-Solving/HashTable/HashTable.java
+	*	1758030120	0
+	"	45	0
+	^	45	0
+	.	44	0
+	+	7	214
+	+	7	21
+	+	25	44
+	+	33	41
+	+	36	44
+	+	37	5
+	+	26	6
+	+	37	26
+	+	44	0
 
 > ~/Problem-Solving/MaxPriorityQueue/MaxPriorityQueue.java
-	*	1755585485	0
-	"	1	0
-	^	2	0
-	.	2	0
-	+	2	0
+	*	1757422014	0
+	"	108	0
+	^	108	0
+	.	107	1
+	+	109	0
+	+	107	1
+
+> ~/Rohit-Sir/InterviewQuestions/LongestSubstringWithReplacement.java
+	*	1757342924	0
+	"	27	1
+	^	27	2
+	.	27	0
+	+	1	15
+	+	2	15
+	+	1	36
+	+	14	41
+	+	29	0
+	+	27	0
+
+> ~/Rohit-Sir/Networking/UDPServer.java
+	*	1756736170	0
+	"	16	0
+	^	30	10
+	.	30	9
+	+	1	18
+	+	11	74
+	+	14	52
+	+	8	29
+	+	14	88
+	+	38	0
+	+	20	66
+	+	26	90
+	+	23	52
+	+	32	41
+	+	37	0
+	+	3	15
+	+	9	14
+	+	14	72
+	+	15	15
+	+	17	67
+	+	23	36
+	+	24	25
+	+	32	32
+	+	30	9
+
+> ~/Rohit-Sir/Networking/UDPClient.java
+	*	1756736036	0
+	"	4	15
+	^	4	16
+	.	4	15
+	+	38	1
+	+	4	15
+
+> ~/Problem-Solving/Matrioshkas/Matrioshkas.java
+	*	1755611136	0
+	"	35	0
+	^	3	24
+	.	3	23
+	+	50	1
+	+	49	0
+	+	48	0
+	+	42	0
+	+	41	0
+	+	31	20
+	+	29	0
+	+	30	0
+	+	21	0
+	+	8	0
+	+	11	0
+	+	14	0
+	+	3	23
+
+> ~/Problem-Solving/MedicineScheduler.java
+	*	1755610451	0
+	"	33	0
+	^	79	0
+	.	78	1
+	+	78	1
+
+> ~/Problem-Solving/MergeKSortedLists.java
+	*	1755609947	0
+	"	50	0
+	^	104	0
+	.	103	1
+	+	103	1
+
+> ~/Problem-Solving/MedianFinder.java
+	*	1755609851	0
+	"	22	0
+	^	68	1
+	.	68	0
+	+	68	0
+
+> ~/Problem-Solving/KthLargestUsingPriorityQueue.java
+	*	1755609503	0
+	"	17	30
+	^	17	31
+	.	17	31
+	+	5	57
+	+	15	2
+	+	4	14
+	+	18	77
+	+	19	54
+	+	18	48
+	+	20	15
+	+	19	13
+	+	4	23
+	+	20	69
+	+	19	61
+	+	23	0
+	+	7	19
+	+	17	31
+
+> ~/Problem-Solving/SiteswapValidator.java
+	*	1755609342	0
+	"	55	0
+	^	55	0
+	.	54	1
+	+	54	1
+
+> ~/Problem-Solving/MinPriorityQueue.java
+	*	1755609312	0
+	"	107	0
+	^	107	0
+	.	106	1
+	+	106	1
+
+> ~/Problem-Solving/MaxPriorityQueue.java
+	*	1755609225	0
+	"	107	0
+	^	107	0
+	.	106	1
+	+	120	26
+	+	124	19
+	+	160	38
+	+	120	25
+	+	124	18
+	+	129	34
+	+	160	37
+	+	158	1
+	+	156	35
+	+	170	2
+	+	170	3
+	+	172	98
+	+	176	36
+	+	177	41
+	+	176	19
+	+	177	68
+	+	171	0
+	+	177	69
+	+	180	0
+	+	177	68
+	+	172	7
+	+	172	48
+	+	173	0
+	+	174	0
+	+	176	0
+	+	177	18
+	+	177	0
+	+	177	62
+	+	179	0
+	+	177	18
+	+	179	0
+	+	178	0
+	+	106	1
 
 > ~/Rohit-Sir/InterviewQuestions/ProductTracker.java
 	*	1755527998	0
@@ -339,40 +544,6 @@
 	+	1	137
 	+	75	1
 	+	55	1
-
-> ~/Rohit-Sir/Networking/UDPClient.java
-	*	1755522814	0
-	"	4	15
-	^	4	16
-	.	4	15
-	+	38	1
-	+	4	15
-
-> ~/Rohit-Sir/Networking/UDPServer.java
-	*	1755522694	0
-	"	30	9
-	^	30	10
-	.	30	9
-	+	1	18
-	+	11	74
-	+	14	52
-	+	8	29
-	+	14	88
-	+	38	0
-	+	20	66
-	+	26	90
-	+	23	52
-	+	32	41
-	+	37	0
-	+	3	15
-	+	9	14
-	+	14	72
-	+	15	15
-	+	17	67
-	+	23	36
-	+	24	25
-	+	32	32
-	+	30	9
 
 > ~/Problem-Solving/Ma
 	*	1755005736	0
@@ -417,26 +588,6 @@
 	+	53	64
 	+	1	35
 	+	6	35
-
-> ~/Problem-Solving/KthLargestUsingPriorityQueue.java
-	*	1755000997	0
-	"	17	30
-	^	17	31
-	.	17	31
-	+	5	57
-	+	15	2
-	+	4	14
-	+	18	77
-	+	19	54
-	+	18	48
-	+	20	15
-	+	19	13
-	+	4	23
-	+	20	69
-	+	19	61
-	+	23	0
-	+	7	19
-	+	17	31
 
 > ~/Rohit-Sir/SchedulingAlgos/ShortestJobFirst.java
 	*	1754917776	0
@@ -547,22 +698,3 @@
 	+	35	1
 	+	18	0
 	+	3	28
-
-> ~/Problem-Solving/Matrioshkas/Matrioshkas.java
-	*	1754396546	0
-	"	3	23
-	^	3	24
-	.	3	23
-	+	50	1
-	+	49	0
-	+	48	0
-	+	42	0
-	+	41	0
-	+	31	20
-	+	29	0
-	+	30	0
-	+	21	0
-	+	8	0
-	+	11	0
-	+	14	0
-	+	3	23
